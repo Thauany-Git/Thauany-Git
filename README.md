@@ -1,16 +1,14 @@
  <div align="center">
 
-# THAUANY
-
 <p align="center">
   <img src="thauany_github_pixel_art.gif" width="700" alt="Thauany em pixel art programando">
 </p>
 
-### Análise de Dados · Engenharia de Dados · Desenvolvimento de Software
+### Análise de Dados · Desenvolvimento Web
 
 Transformando dados em informações e ideias em soluções digitais.
 
-[GitHub](https://github.com/Thauany-Git) · [Portfólio](https://radar-pin.vercel.app/)
+[GitHub](https://github.com/Thauany-Git) · [Portfólio]()
 
 </div>
 
