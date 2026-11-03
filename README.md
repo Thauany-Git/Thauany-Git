@@ -2,6 +2,10 @@
 
 # THAUANY
 
+<p align="center">
+  <img src="thauany_github_pixel_art.gif" width="700" alt="Thauany em pixel art programando">
+</p>
+
 ### Análise de Dados · Engenharia de Dados · Desenvolvimento de Software
 
 Transformando dados em informações e ideias em soluções digitais.
