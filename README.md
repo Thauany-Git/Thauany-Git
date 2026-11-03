@@ -8,8 +8,7 @@
 
 Transformando dados em informações e ideias em soluções digitais.
 
-[GitHub](https://github.com/Thauany-Git) · [Portfólio]()
-
+[GitHub](https://github.com/Thauany-Git) · [Portfólio]() · [Linkedin](https://www.linkedin.com/in/thauany-franciny/)
 </div>
 
 ---
@@ -66,15 +65,7 @@ Plataforma de análise de indicadores municipais, com foco no mercado de trabalh
 
 [ Acessar repositório →](https://github.com/Thauany-Git/observatorio-piracicaba)
 
-### 02. ETL CAGED
-
-**Python · ETL · PostgreSQL · Automação**
-
-Processo automatizado e incremental de extração, transformação e carregamento de dados do Novo CAGED, com armazenamento em banco de dados para análises do mercado de trabalho.
-
-[ Acessar repositório →](https://github.com/Thauany-Git/etl-observatorio-piracicaba)
-
-### 03. RADAR PIN
+### 02. RADAR PIN
 
 **Desenvolvimento Web · Monitoramento de Informações**
 
@@ -82,7 +73,7 @@ Plataforma web para monitoramento e organização de notícias sobre inovação,
 
 [ Acessar projeto →](https://radar-pin.vercel.app/)
 
-### 04. Química Master
+### 03. Química Master
 
 **Desenvolvimento Web · Tecnologia Educacional**
 
